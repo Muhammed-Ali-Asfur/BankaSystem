@@ -1,0 +1,8 @@
+﻿  02_Bank.cpp
+C:\Users\Windos10\Desktop\Projecv\Bank sekiz son\02_Bank\02_Bank.cpp(69,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Windos10\Desktop\Projecv\Bank sekiz son\02_Bank\02_Bank.cpp(957,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\Windos10\Desktop\Projecv\Bank sekiz son\02_Bank\02_Bank.cpp(917,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+C:\Users\Windos10\Desktop\Projecv\Bank sekiz son\02_Bank\02_Bank.cpp(875,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\Windos10\Desktop\Projecv\Bank sekiz son\02_Bank\02_Bank.cpp(997,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+C:\Users\Windos10\Desktop\Projecv\Bank sekiz son\02_Bank\02_Bank.cpp(1024,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  02_Bank.vcxproj -> C:\Users\Windos10\Desktop\Projecv\Bank sekiz son\x64\Debug\02_Bank.exe
