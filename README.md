@@ -1,13 +1,24 @@
-# Banka Yönetim Sistemi (C++)
+# 🏦 Bank Management System (C++)
 
-C++ ile geliştirilmiş konsol tabanlı banka yönetim sistemi.
+A console-based **Bank Management System** developed using **C++**, designed to simulate core banking operations with a focus on object-oriented programming, data management, and user authorization.
 
-## Özellikler
-- **Müşteri hesap yönetimi:** Ekleme, silme, güncelleme ve arama.
-- **Hesap işlemleri:** Para yatırma, çekme ve bakiye görüntüleme.
-- **Kullanıcı yönetimi ve yetki kontrolü.**
-- **Dosya tabanlı veri saklama:** `Clients.txt` ve `Users.txt`.
+## 🚀 Features
 
-## Giriş Bilgileri
-- **Username:** Admin
-- **Password:** 1234
+- 👤 **Customer Management**
+  - Create, update, delete, search and manage customer accounts.
+
+- 💳 **Banking Operations**
+  - Deposit money, withdraw funds, and view account balances.
+
+- 🔐 **User Authentication & Authorization**
+  - Secure login system with role-based access control.
+
+- 💾 **File-Based Data Storage**
+  - Persistent data management using text files:
+    - `Clients.txt`
+    - `Users.txt`
+
+- 🧩 **Object-Oriented Design**
+  - Developed with clean code principles and modular programming concepts.
+
+## 🔑 Default Login Credentials
